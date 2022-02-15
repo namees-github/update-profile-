@@ -1,6 +1,6 @@
 # update-profile-
 ***Namees Mohammed Profile***
-![GitHub Dark](https://namees-github.github.io/update-profile-/)
+![GitHub Dark](<img width="1440" alt="Screen Shot 2022-02-14 at 2 05 17 PM" src="https://user-images.githubusercontent.com/95061565/153938037-73061f75-d1b9-4f51-af76-bebaf68b474b.png">)
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
