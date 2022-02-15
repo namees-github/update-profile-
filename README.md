@@ -1,8 +1,6 @@
 # update-profile-
 ***Namees Mohammed Profile***
-100. First list item
-     - First nested list item
-       - Second nested list item
+
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
