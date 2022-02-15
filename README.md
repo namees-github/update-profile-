@@ -1,6 +1,6 @@
 # update-profile-
 ***Namees Mohammed Profile***
-![mytry](https://github.com/namees-github/update-profile-/blob/main/images/horesion.png#gh-dark-mode-only)
+[mytry](https://github.com/namees-github/update-profile-/blob/main/images/horesion.png#gh-dark-mode-only)
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
