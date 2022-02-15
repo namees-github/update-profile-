@@ -1,6 +1,6 @@
 # update-profile-
 ***Namees Mohammed Profile***
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![GitHub Dark](https://namees-github.github.io/update-profile-/)
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
