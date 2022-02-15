@@ -1,6 +1,9 @@
 # update-profile-
-deployed page:
-https://namees-github.github.io/update-profile-/
+***Namees Mohammed Profile***
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+
+[deployed Page](https://namees-github.github.io/update-profile-/)
+
 adding my projects links and details with my contact information 
 <img width="1440" alt="Screen Shot 2022-02-14 at 2 05 17 PM" src="https://user-images.githubusercontent.com/95061565/153938037-73061f75-d1b9-4f51-af76-bebaf68b474b.png">
 
