@@ -1,6 +1,6 @@
 # update-profile-
 ***Namees Mohammed Profile***
-![img](https://user-images.githubusercontent.com/95061565/153938054-0a188442-2a63-437c-a56a-30732d2aff93.png#gh-dark-mode-only)
+![img](https://github.com/namees-github/update-profile-/blob/main/images/horesion.png#gh-dark-mode-only)
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
