@@ -1,8 +1,7 @@
 # update-profile-
 ***Namees Mohammed Profile***
-1- namees
-2 mohammed 
-3 salah
+1. James Madison
+2. James Monroe
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
