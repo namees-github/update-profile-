@@ -1,8 +1,8 @@
 # update-profile-
 ***Namees Mohammed Profile***
-* namees
-* mohammed 
-*salah
+1 namees
+2 mohammed 
+3 salah
 
 [deployed Page](https://namees-github.github.io/update-profile-/)
 
